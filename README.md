@@ -12,13 +12,25 @@
 Pythonは、機会学習を用いたデータ解析やソフトウェアの研究開発にて、標準的に利用されているスクリプト言語である。
 
 ## 教師あり学習
- ・回帰
+* 回帰
  
- ・分類
+* 分類
+  
+  [分類の概要](/classification.ipynb)
+  
+  [決定木 CART](/decisiontree_gini/decisiontree_gini)
+  
+  * アンサンブル
+   
+    * [ランダムフォレスト](/randomforest/randomforest_1.ipynb)
 ## 教師なし学習
  ・クラスタリング
+  
+  [クラスタリング利用した分析](/clustering_1.ipynb)
  
  ・次元削減
+  
+  [主成分分析](/pca/pca.md)
 ## 強化学習
  
 ## 深層学習
