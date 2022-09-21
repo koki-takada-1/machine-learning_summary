@@ -18,7 +18,7 @@ Pythonは、機会学習を用いたデータ解析やソフトウェアの研�
   
   [分類の概要](/classification.ipynb)
   
-  [決定木 CART](/decisiontree_gini/decisiontree_gini)
+  [決定木 CART](/decisiontree_gini/decisiontree_gini.md)
   
   * アンサンブル
    
